@@ -1,4 +1,4 @@
-# Data-Driven-COVID-19-Vaccination-Insights-Visualization-and-Analysis-Applicatio
+# Data-Driven-COVID-19-Vaccination-Insights-Visualization-and-Analysis-Application
 
 This project provides an interactive tool built with Python (Tkinter, Plotly, and Pandas) for analyzing and visualizing COVID-19 vaccination data. Users can load datasets related to COVID-19 cases, deaths, 
 and vaccine distributions, and generate various types of charts and maps to explore the data.
